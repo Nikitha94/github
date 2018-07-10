@@ -13,6 +13,9 @@ public class Demo {
 		int c = a+b;
 		System.out.println("addition of a and b :"+c);
 		
+		String s="reddy";
+		System.out.println(s);
+		
 
 	}
 
